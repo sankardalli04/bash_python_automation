@@ -1,0 +1,8 @@
+#!/bin/bash
+age=21
+if [ "$age" -ge 18 ]; then
+
+	echo "you are an adult"
+else
+	echo "you r minor"
+fi
